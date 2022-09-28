@@ -1,0 +1,36 @@
+body{
+    background-color: #2d3142
+    
+}
+
+button{
+    background-color: #9368b7;
+    color:white;
+    font-family: 'open sans', sans-serif;
+    width: 200px;
+    padding: 10px;
+    margin:60px;
+    border-radius: 8px;
+    border;:none
+}
+
+button:hover {
+    background-color: #00aacc
+}
+
+h1 {
+    font-family: 'oswald', sans serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    color:#00aacc
+}
+
+h2 {
+    font-family: 'montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    color:#00aacc;
+    
+}
