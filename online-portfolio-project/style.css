@@ -1,20 +1,24 @@
- <!--Contact Button Start-->
-body{
-    background-color: #2d3142;
+#body {
+background-color: #1F109F;
 }
 
+
 #headshot {
-    
     width:300px;
+    margin:0px;
+}
+
+#topper {
+    background-color: #1F109F
 }
 
 button{
-    background-color: #9368b7;
-    color:white;
+    background-color: white;
+    color:#9368b7;
     font-family: 'open sans', sans-serif;
     width: 200px;
     padding: 10px;
-    margin:60px;
+    margin: 0px;
     border-radius: 8px;
     border:none;
     
@@ -30,7 +34,7 @@ h1 {
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     color:#00aacc;
-    text-align: center
+    text-align: center;
 }
 
 h2 {
@@ -38,11 +42,39 @@ h2 {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
-    color:#00aacc;
-    text-align:center
+    background-color:#1F109F;
+    color: #14DD36;
+    text-align: center;  
+    
     
 }
+
+h3 {
+    color: #ED1313;
+    position:relative; top:10px;
+}
  
+h4 {
+    color:#ED1313;
+    position:relative; top:-5px;
+}
+
+h5 { 
+    color:#ED1313;
+    position:relative; top:-20px;
+}
+
+p {
+    
+    color:#9368b7;
+    position:relative; top:-20px
+}
+
+nav {
+    background-color:white;
+    color:#00aacc;
+}
+
 <!--Contact Button End-->
 
 
