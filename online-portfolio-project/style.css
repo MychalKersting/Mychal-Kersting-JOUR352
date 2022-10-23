@@ -12,10 +12,11 @@ background-color: #1F109F;
     background-color: #1F109F;
     text-align: center
     
+    
 }
 
 button{
-    background-color:#9368b7;
+    background-color:#14DD36;
     color:white;
     font-family: 'open sans', sans-serif;
     width: 200px;
@@ -24,6 +25,7 @@ button{
     border-radius: 30px;
     border:none;
     
+    
 }
 
 button:hover {
@@ -31,41 +33,38 @@ button:hover {
 }
 
 h1 {
-    font-family: 'oswald', sans serif;
-    font-family: 'Open Sans', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     color:#00aacc;
     text-align: center;
+   
     
 }
 
 h2 {
-    font-family: 'montserrat', sans-serif;
-    font-family: 'Open Sans', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
     background-color:#1F109F;
     color: #14DD36;
     text-align: center; 
-    
-    
-    
 }
 
 h3 {
-    color: #ED1313;
-   
-    
+    color: white;
+    font-family: 'Oswald', sans-serif;   
+    position:relative;left: 15px
 }
  
 h4 {
-color:#ED1313;
-   
+     color:#ED1313;
+     font-family: 'Oswald', sans-serif;
+    position:relative;left: 15px
 }
 
 h5 { 
     color:#ED1313;
+    font-family: 'Oswald', sans-serif;
+    position:relative;left: 15px
 }
 
 
@@ -86,61 +85,27 @@ h5 {
         color:#00aacc; 
     }    
     
-#experience {
+
+    p {
+        font-family: 'Oswald', sans-serif;
+        color: white;
+        position:relative;left: 15px
+    }    
+
+
+    li { 
+    font-family: 'Oswald', sans-serif;
+    color: white
+    }
     
-}
-
-#big-ten-plus {
-    
-}
-
-
-#radio {
-
-}
-
-
-#writing {
-
-}
-
-
-#hrb {
-
-}
-
-
-#pitch {
-
-}
-
-#education {
-
-}
-
-
-#skills {
-     
-}
-
-/* Contact Button End */
-
-
-/*--Image*/
-
-.center {
-    
-}
-
 #footer {
-    background-color:#9368b7;
-    color:#000000;
+   
+    color:#14DD36;
     
 }
 
 nav ul li{
     display:inline-block;
-}
 }
 
 @media (min-width: 576px) {
