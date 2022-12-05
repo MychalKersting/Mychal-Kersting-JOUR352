@@ -17,3 +17,51 @@
     /*Large-Desktop-only styles here*/
     /*This media query targets any screen that is at least 1200px wide*/
 } 
+
+#body {
+    background-color: #F5F5DC
+}
+
+#var {
+    width:400px;
+    margin-left:365px
+}
+
+#var-visual {
+    width:400px;
+    margin-left:375px
+}
+
+#var-room {
+    width:400px;
+    margin-left:380px
+}
+
+
+#penalty-save {
+    width:400px;
+    margin-left:375px;
+}
+
+
+h1 {
+    text-align: center;
+    font-weight:bold;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight:bold;
+    text-align: center;
+    
+}
+
+p {
+    font-size: 17px;
+    margin-left: 35px
+}
+
+#penalty-save-label {
+    margin-left: 350px;
+    font-size: 11px;
+}
