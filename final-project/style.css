@@ -19,7 +19,7 @@
 } 
 
 #body {
-    background-color: #F5F5DC
+    background-color: #FAE5D3
 }
 
 #var {
@@ -29,18 +29,18 @@
 
 #var-visual {
     width:400px;
-    margin-left:375px
+    margin-left:290px
 }
 
 #var-room {
     width:400px;
-    margin-left:380px
+    margin-left:290px
 }
 
 
 #penalty-save {
     width:400px;
-    margin-left:375px;
+    margin-left:290px;
 }
 
 
@@ -62,6 +62,6 @@ p {
 }
 
 #penalty-save-label {
-    margin-left: 350px;
+    margin-left: 250px;
     font-size: 11px;
 }
