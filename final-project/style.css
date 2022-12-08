@@ -65,3 +65,24 @@ p {
     margin-left: 250px;
     font-size: 11px;
 }
+
+#prem-table-no-var {
+    width:350px;
+    margin-left: 400px
+}
+
+#standings-label {
+    margin-left:370px;
+    margin-right:300px;
+    font-size: 11px
+}
+
+#var-goal-chart {
+    width:700px;
+    margin-left:250px;
+}
+
+#var-pie-chart {
+    width:500px;
+    margin-left:250px
+}
